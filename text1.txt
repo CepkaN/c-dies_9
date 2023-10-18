@@ -1,0 +1,48 @@
+18.10.2023 21:09:22
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 0:00:00
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 21:09:52
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 0:00:00
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 21:09:56
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 0:00:00
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 21:10:21
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 0:00:00
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 21:11:08
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 0:00:00
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 21:13:27
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
+18.10.2023 0:00:00
+System.Action`2[System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext]
+Attempted to divide by zero.
+System.Collections.ListDictionaryInternal
